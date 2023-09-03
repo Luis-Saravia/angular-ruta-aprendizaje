@@ -7,12 +7,12 @@
 JavaScript es el lenguaje de programación esencial para el desarrollo web. Antes de aventurarnos en el mundo de Angular, es crucial comprender los conceptos básicos de JavaScript, ya que este lenguaje forma el cimiento sobre el cual se construyen las aplicaciones web modernas, incluidas las aplicaciones creadas con Angular. 
 
 * Contenido:
-  * ¿Qué es JavaScript y por qué es importante en el desarrollo web?
-  * Historia y evolución de JavaScript.
-  * ¿Cómo se ejecuta JavaScript en el navegador?
-  * Conceptos de sintaxis y estructura básica de un programa JavaScript.
-  * Variables, tipos de datos y operadores.
-  * Control de flujo: condicionales (if, else) y bucles (for, while).
+  * [¿Qué es JavaScript y por qué es importante en el desarrollo web?](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/01-que-es-javascript-y-su-importancia.md)
+  * [Historia y evolución de JavaScript.](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/02-historia-evolucion-de-javascript.md)
+  * [¿Cómo se ejecuta JavaScript en el navegador?](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/03-como-se-ejecuta-en-el-navegador.md)
+  * [Conceptos de sintaxis y estructura básica de un programa JavaScript.](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/04-conceptos-de-sintaxi-y-estructura-basica.md)
+  * [Variables, tipos de datos y operadores.](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/05-variables-tipos-de-datos-operadores.md)
+  * [Control de flujo: condicionales (if, else) y bucles (for, while).](https://github.com/danielboggianosa/angular-ruta-aprendizaje/blob/main/nivel-01-fundamentos-de-javascript-y-typescript/01-conceptos-basico-de-javascript/06-control-de-flujo.md)
 
 * Objetivos de Aprendizaje:
   * Comprender el papel fundamental de JavaScript en la creación de aplicaciones web modernas.
