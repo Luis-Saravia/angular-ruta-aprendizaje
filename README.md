@@ -11,11 +11,11 @@ Además, a medida que avancemos en el curso, también dedicaremos tiempo a abord
 
 En última instancia, el objetivo de este plan de aprendizaje es proporcionarte las habilidades y el conocimiento necesarios para no solo crear aplicaciones eficientes con Angular, sino también para mantener un código limpio, organizado y altamente mantenible. Te invito a embarcarte en esta emocionante travesía de aprendizaje mientras desbloqueamos juntos el potencial de Angular y fortalecemos tu capacidad para desarrollar aplicaciones web excepcionales. ¡Comencemos este viaje hacia el dominio de Angular desde cero y construyamos un futuro digital exitoso!
 
-## [Nivel 01: Fundamentos de JavaScript y TypeScript]('./Nivel 01 - Fundamentos de JavaScript y TypeScript')
+## [Nivel 01: Fundamentos de JavaScript y TypeScript](https://github.com/danielboggianosa/angular-ruta-aprendizaje/tree/main/nivel-01-fundamentos-de-javascript-y-typescript)
 1. Aprender los conceptos básicos de JavaScript.
 2. Familiarizarse con TypeScript, el lenguaje que utiliza Angular.
 
-## Nivel 02: Introducción a Angular
+## [Nivel 02: Introducción a Angular](https://github.com/danielboggianosa/angular-ruta-aprendizaje/tree/main/nivel-02-introduccion-a-angular)
 3. Comprender qué es Angular y su arquitectura.
 4. Configurar el entorno de desarrollo (Node.js, npm, Angular CLI).
 5. Crear y ejecutar un proyecto Angular.
